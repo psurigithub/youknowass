@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div>
+        <div class="bg-container">
+            <div class="section1 d-flex flex-row">
+                <div class="mt-4">
+                    <img src="http://cdn.onlinewebfonts.com/svg/img_266351.png" class="logo" />
+                    <p>PROFILE</p>
+                </div>
+                <div class='ml-5 mt-4'>
+                    <h3 class='heading'>CAROLINE <br />THOMPSON</h3>
+                    <p>ART DIRECTOR</p>
+                </div>
+                <div class="vl"></div>
+                <div class="ml-4">
+                    <p>Adverstising campaigns are my forte.<br /> I have been in the induxtry for 6 years.</p>
+                    <p>ADDRESS: Los Angeles, California<br />Phone: +(87) 834 2934 2344<br />Website: carolinethompson.com</p>
+                </div>
+            </div>
+            <hr class="hl">
+
+
+            <div class="section2 d-flex flex-row">
+                <div class="mt-4">
+                    <img src="https://icon-library.com/images/shopping-bag-icon-png/shopping-bag-icon-png-0.jpg" class="logo" />
+                    <p>WORK</p>
+                </div>
+
+                <div>
+                    <div class='d-flex flex-row'>
+                        <p class="ml-4 mr-4">2022-2023</p>
+                        <div>
+                            <p class="bold-text">creative minds Graphic Design Studio California - Senior Art Director</p>
+                            <p>Generating and developing ideas to present to the client</p>
+                        </div>
+                    </diV>
+                    <div class='d-flex flex-row'>
+                        <p class="ml-4 mr-4">2021-2022</p>
+                        <div>
+                            <p class="bold-text">Mega Giants Publishing and Studio - Junior Art Director</p>
+                            <p>Working on designer to produce an effective Adverstising campaigns</p>
+                        </div>
+                    </diV>
+                    <div class='d-flex flex-row'>
+                        <p class="ml-4 mr-4">2020-2021</p>
+                        <div>
+                            <p class="bold-text">Big Ideas Inc * Assistant Art Director</p>
+                            <p>Commissioning specilists, such as artists to work on projects</p>
+                        </div>
+                    </diV>
+                </div>
+            </div>
+            <hr class="hl">
+
+
+
+
+            <div class='section-3 d-flex flex-row'>
+                <div class="mt-4 mr-4">
+                    <img src="https://tse2.mm.bing.net/th?id=OIP.SLsmvN2U_s03R4zvcmwzCQHaHx&pid=Api&P=0&h=180" class="logo" />
+                    <p>SKILLS & <br />AWARDS</p>
+                </div>
+                <div>
+                    <p>UI/UX<br />Growth Marketing<br />Typography<br />Video Production<br />Print Design</p>
+                </div>
+
+                <div class="dot-container ml-3 d-flex flex-column">
+                    <div class='d-flex flex-row mb-2'>
+                        <span class="dot ml-2 ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                    </div>
+                    <div class='d-flex flex-row mb-2'>
+                        <span class="dot ml-2 ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                    </div>
+                    <div class='d-flex flex-row mb-2'>
+                        <span class="dot ml-2 ml-2"></span>
+                        <span class="dot ml-2"></span>
+                    </div>
+                    <div class='d-flex flex-row mb-2'>
+                        <span class="dot ml-2 ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                    </div>
+                    <div class='d-flex flex-row mb-2'>
+                        <span class="dot ml-2 ml-2"></span>
+                        <span class="dot ml-2"></span>
+                        <span class="dot ml-2"></span>
+                    </div>
+                </div>
+                <div>
+                    <diV class="d-flex flex-row">
+                        <p class="ml-4">2019</p>
+                        <div class="ml-3">
+                            <p class='bold-text'>Suition design Awards</p>
+                            <p>10 Graphic Designer</p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <p class="ml-4">2019</p>
+                        <div class="ml-3">
+                            <p class='bold-text'>Graphic London Awards</p>
+                            <p>Winning Entry. Poster Design </p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row">
+                        <p class="ml-4">2019</p>
+                        <div class="ml-3">
+                            <p class='bold-text'>LA Creatives Awards</p>
+                            <p>Winning Entry.Ad campaigns</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr class="hl">
+
+            <div class="section-4 d-flex flex-row">
+                <div class="mt-4">
+                    <img src="https://static.vecteezy.com/system/resources/previews/000/573/380/original/vector-sign-of-bulb-icon.jpg" class="logo" />
+                    <p>INTERESTS</p>
+                </div>
+                <div class="mt-4 ml-5 mr-3">
+                    <img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/04/Room-Monitor-Television-Graphics-12920538-1-1-580x435.png" class="logo" />
+                    <p>Internet</p>
+                </div>
+                <div class="mt-4 mr-2 ml-4 mr-3">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzru6N4M5xsVMzg7js8kQhSyuyu7B92r0214i3qfdRGSItsd7SggKagVwkbk_gXSx1tApcsaUl4dw&usqp=CAU&ec=48600112" class="logo" />
+                    <p>Sketching</p>
+                </div>
+                <div class="mt-4 ml-4 mr-3">
+                    <img src="https://tse4.mm.bing.net/th?id=OIP.dmLjLFiZ1PcVJmPz2kfkOQHaHa&pid=Api&P=0&h=180" class="logo" />
+                    <p>Movies</p>
+                </div>
+                <div class="mt-4 ml-4 mr-3">
+                    <img src="https://tse2.mm.bing.net/th?id=OIP.L1f3W4nIeS4VUkyI-l1vcQHaJ4&pid=Api&P=0&h=180" class="logo" />
+                    <p>Music</p>
+                </div>
+            </div>
+            <hr class="hl">
+
+
+
+
+
+
+
+
+            <div class="section5 d-flex flex-row">
+                <div class="mt-4">
+                    <img src="https://tse4.mm.bing.net/th?id=OIP.xYVVH6pKxstLMpC2ViJGyQHaG0&pid=Api&P=0&h=180" class="logo" />
+                    <p>EDUCATION</p>
+                </div>
+                <div>
+                    <div class='d-flex flex-row'>
+                        <p class="ml-4 mr-4">2016-2020</p>
+                        <div>
+                            <p class="bold-text">Alabama College of Design and Technology * cum Laude</p>
+                            <p>Bachelor of Fine Arts Major in Adverstising</p>
+                        </div>
+                    </diV>
+                    <div class='d-flex flex-row'>
+                        <p class="ml-4 mr-4">2013-2016</p>
+                        <div>
+                            <p class="bold-text">Helena All Girls Senior High School - valedictorian</p>
+                            <p>President of Art and Design Club</p>
+                        </div>
+                    </diV>
+                </div>
+            </div>
+
+
+
+
+
+
+        </div>
+    </div>
+</body>
+
+</html>
